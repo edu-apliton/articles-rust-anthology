@@ -19,7 +19,7 @@ of this page. Someday I will get around to re-organizing this list.__
 ## Anthology 1 candidates
 
 - Introduction
-  - [Understanding Over Guesswork](https://hoverbear.org/2015/09/12/understand-over-guesswork/) &#x2610;
+  - [Understanding Over Guesswork](https://hoverbear.org/2015/09/12/understand-over-guesswork/) &#x2610; (Stopped: 3.5 Threads that don't Bite)
   - [An Alternative Introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust) &#x2610;
   - [Learning Rust](https://medium.com/learning-rust) &#x2610;
     - [Rust Basics](https://medium.com/learning-rust/rust-basics-e73304ab35c7) &#x2610;
