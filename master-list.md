@@ -28,8 +28,8 @@ of this page. Someday I will get around to re-organizing this list.__
   - [Rust and CSV Parsing](http://blog.burntsushi.net/csv/) &#x2610;
   - [Rust for Functional Programmers](http://science.raphael.poss.name/rust-for-functional-programmers.html) &#x2610;
   - Graydon's Lists
-    - [Five Lists of Six Things About Rust](http://graydon2.dreamwidth.org/214016.html) &#x2610;
-    - [Things Rust Shipped Without](http://graydon2.dreamwidth.org/218040.html) &#x2610;
+    - [Five Lists of Six Things About Rust](http://graydon2.dreamwidth.org/214016.html) &#x2611;
+    - [Things Rust Shipped Without](http://graydon2.dreamwidth.org/218040.html) &#x2611;
 - Experience Reports
   - [My Experience Writing Enjarify in Rust](https://medium.com/@robertgrosse/my-experience-rewriting-enjarify-in-rust-723089b406ad) &#x2610;
   - [Rust: A Scala Engineer's Perspective](https://beachape.com/blog/2017/05/24/rust-from-scala/) &#x2610;
