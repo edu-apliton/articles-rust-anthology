@@ -35,7 +35,7 @@ of this page. Someday I will get around to re-organizing this list.__
   - [Rust: A Scala Engineer's Perspective](https://beachape.com/blog/2017/05/24/rust-from-scala/) &#x2610;
   - [Giving up on wlroots-rs](http://way-cooler.org/blog/2019/04/29/rewriting-way-cooler-in-c.html) &#x2610;
 - Ownership
-  - [Where Rust Really Shines](https://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/) &#x2610;
+  - [Where Rust Really Shines](https://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/) &#x2611;
   - [Rust Means Never Having to Close a Socket](http://blog.skylight.io/rust-means-never-having-to-close-a-socket/) &#x2610;
   - [The Problem with Single-threaded Shared Mutability](https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/) &#x2610;
   - [Rust Ownership the Hard Way](https://chrismorgan.info/blog/rust-ownership-the-hard-way.html) &#x2610;
