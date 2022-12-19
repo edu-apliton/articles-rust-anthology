@@ -36,7 +36,7 @@ of this page. Someday I will get around to re-organizing this list.__
   - [Giving up on wlroots-rs](http://way-cooler.org/blog/2019/04/29/rewriting-way-cooler-in-c.html) &#x2610;
 - Ownership
   - [Where Rust Really Shines](https://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/) &#x2611;
-  - [Rust Means Never Having to Close a Socket](http://blog.skylight.io/rust-means-never-having-to-close-a-socket/) &#x2610;
+  - [Rust Means Never Having to Close a Socket](http://blog.skylight.io/rust-means-never-having-to-close-a-socket/) &#x2610; Stopped: Third, I have personally found that a very clear
   - [The Problem with Single-threaded Shared Mutability](https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/) &#x2610;
   - [Rust Ownership the Hard Way](https://chrismorgan.info/blog/rust-ownership-the-hard-way.html) &#x2610;
   - [Strategies for Solving "cannot move out of" Borrowing Errors](http://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html) &#x2610;
