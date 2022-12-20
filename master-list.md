@@ -250,107 +250,107 @@ of this page. Someday I will get around to re-organizing this list.__
 
 ## Examples and Exercises
 
-- [Rust By Example](https://www.rustbyexample.com) 
-- [rustlings](https://github.com/carols10cents/rustlings)
-- [exercism.io](http://www.exercism.io/languages/rust)
-- [Rust Cookbook](https://brson.github.io/rust-cookbook)
+- [Rust By Example](https://www.rustbyexample.com)  &#x2610;
+- [rustlings](https://github.com/carols10cents/rustlings) &#x2610;
+- [exercism.io](http://www.exercism.io/languages/rust) &#x2610;
+- [Rust Cookbook](https://brson.github.io/rust-cookbook) &#x2610;
 
 ## Additional Long-Form Reading
 
-- [The Little Book of Rust Books](https://lborb.github.io/book/)
-- [The Rust Book (2nd Edition)](https://doc.rust-lang.org/nightly/book/second-edition/)
-- [The Rust Book (1st Edition)](https://doc.rust-lang.org/nightly/book/first-edition/)
-- [The Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/)
-- [The Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
-- [The Rust Reference](https://doc.rust-lang.org/nightly/reference/)
-- [Writing an OS in Rust](http://os.phil-opp.com/)
-- [Rust 101](https://www.ralfj.de/projects/rust-101/main.html)
-- [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/)
-- [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/?updated=2015-11-08)
-- [Discovery: Discover the World of Microcontrollers Through Rust](https://japaric.github.io/discovery/)
-- [Roguelike Tutorial in Rust + tcod](https://tomassedovic.github.io/roguelike-tutorial/)
-- [Learning Rust](https://learning-rust.github.io)
-- [Unsafe Code Guidelines](https://rust-lang.github.io/unsafe-code-guidelines/)
-- [Rust in Easy English](https://dhghomon.github.io/easy_rust/Chapter_1.html)
+- [The Little Book of Rust Books](https://lborb.github.io/book/) &#x2610;
+- [The Rust Book (2nd Edition)](https://doc.rust-lang.org/nightly/book/second-edition/) &#x2610;
+- [The Rust Book (1st Edition)](https://doc.rust-lang.org/nightly/book/first-edition/) &#x2610;
+- [The Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/) &#x2610;
+- [The Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/) &#x2610;
+- [The Rust Reference](https://doc.rust-lang.org/nightly/reference/) &#x2610;
+- [Writing an OS in Rust](http://os.phil-opp.com/) &#x2610;
+- [Rust 101](https://www.ralfj.de/projects/rust-101/main.html) &#x2610;
+- [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/) &#x2610;
+- [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/?updated=2015-11-08) &#x2610;
+- [Discovery: Discover the World of Microcontrollers Through Rust](https://japaric.github.io/discovery/) &#x2610;
+- [Roguelike Tutorial in Rust + tcod](https://tomassedovic.github.io/roguelike-tutorial/) &#x2610;
+- [Learning Rust](https://learning-rust.github.io) &#x2610;
+- [Unsafe Code Guidelines](https://rust-lang.github.io/unsafe-code-guidelines/) &#x2610;
+- [Rust in Easy English](https://dhghomon.github.io/easy_rust/Chapter_1.html) &#x2610;
 
 ## Completely Unevaluated Links
 
-- https://dtolnay.github.io/rust-quiz/18
-- https://github.com/dtolnay/semver-trick
-- https://medium.com/@edwardpku/being-an-intermediate-rust-programmer-in-one-day-37283bb1b0b0?from=timeline&isappinstalled=0
-- https://blog.rust-lang.org/2018/12/21/Procedural-Macros-in-Rust-2018.html
-- https://rust-lang-nursery.github.io/api-guidelines/documentation.html#documentation
-- https://rust-random.github.io/book/
-- https://stjepang.github.io/2019/01/29/lock-free-rust-crossbeam-in-2019.html
-- https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html
-- https://doc.rust-lang.org/nomicon/aliasing.html
-- https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/
-- https://www.rust-lang.org/production
-- https://www.reddit.com/r/rust/comments/aohq6u/rust_velocity_and_defect_rates/eg189gu/
-- https://rufflewind.com/2017-02-15/rust-move-copy-borrow
-- https://blog.adamant-lang.org/2019/rust-lifetime-visualization-ideas/
-- http://pling.jondgoodwin.com/post/lifetimes/
-- https://github.com/rust-lang-nursery/rust-cookbook/issues/502#issue-387418261
-- https://smallcultfollowing.com/babysteps/blog/2012/11/18/imagine-never-hearing-the-phrase-aliasable/
-- https://manishearth.github.io/blog/2017/03/18/inhtpinhtpamaa/
-- https://areweasyncyet.rs/ - contains async blog posts
-- https://medium.com/@richardanaya/a-journey-through-rust-lifetimes-5a08782c7091
-- https://gill.net.in/posts/auth-microservice-rust-actix-web1.0-diesel-complete-tutorial/
-- https://medium.com/@ly.lee/hosting-embedded-rust-apps-on-apache-mynewt-with-stm32-blue-pill-c86b119fe5f?sk=f58f4cf6c608fded4b354063e474a93b
-- http://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/
-  - https://news.ycombinator.com/item?id=20192645
-- http://patshaughnessy.net/2018/3/15/how-rust-implements-tagged-unions
-- https://raphaelgomes.dev/blog/articles/2019-07-01-sharing-references-between-python-and-rust.html
-- https://dev.to/sendilkumarn/increase-rust-and-webassembly-performance-382h
-- https://medium.com/dwelo-r-d/we-rewrote-our-iot-platform-in-rust-and-got-away-with-it-2c8867c61b67
-- https://www.ncameron.org/blog/migrating-a-crate-from-futures-0-1-to-0-3/
-- https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html
-- https://tmandry.gitlab.io/blog/posts/optimizing-await-1/
-- https://tmandry.gitlab.io/blog/posts/optimizing-await-2/
-- https://aturon.github.io/tech/2018/04/24/async-borrowing/
-- https://rust-lang.github.io/async-book/
-- https://cheats.rs/
-- https://hsivonen.fi/string-length/
-- https://github.com/ferrous-systems/elements-of-rust/
-- https://arxiv.org/pdf/1902.01906.pdf
-- http://blog.pnkfx.org/blog/2019/11/18/rust-bug-minimization-patterns/
-- https://docs.rs/dtolnay/*/dtolnay/macro._03__soundness_bugs.html
-- https://blog.dbrgn.ch/2019/12/24/testing-for-no-std-compatibility/
-- http://cliffle.com/blog/m4vga-in-rust/
-- https://stevedonovan.github.io/rustifications/2018/08/18/rust-closures-are-hard.html
-- https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/
-- https://gregoryszorc.com/blog/2020/01/13/mercurial%27s-journey-to-and-reflections-on-python-3/
-- http://cliffle.com/p/dangerust/
-- http://dtrace.org/blogs/bmc/2018/09/28/the-relative-performance-of-c-and-rust/
-- https://pitdicker.github.io/Interior-mutability-patterns/
-- https://medium.com/tadaweb/security-by-design-a-brief-introduction-to-rust-378060e45038
-- https://jitter.company/blog/2020/01/28/measuring-space-time-behaviours-of-piano-keys-with-rust/
-- https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f
-- https://matklad.github.io/2020/02/14/why-rust-is-loved.html
-- https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride/
-- https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/
-- https://lucumr.pocoo.org/2020/1/1/async-pressure/
-- https://www.pietroalbini.org/blog/shipping-a-compiler-every-six-weeks/
-- https://oribenshir.github.io/afternoon_rusting/blog/copy-on-write
-- https://os.phil-opp.com/async-await/
-- https://jason-williams.co.uk/a-possible-new-backend-for-rust
-- https://blog.logrocket.com/how-to-write-crap-rust-code/
-- https://ferrous-systems.com/blog/zero-sized-references/
-- https://msrc-blog.microsoft.com/2020/04/29/the-safety-boat-kubernetes-and-rust/
-- https://richardanaya.github.io/tour_of_rust/
-- https://fnordig.de/2020/05/02/rust-in-an-instant/
-- https://ferrous-systems.com/blog/stable-async-on-embedded/
-- http://kvark.github.io/web/gpu/native/2020/05/03/point-of-webgpu-native.html
-- https://nikic.github.io/2020/05/10/Make-LLVM-fast-again.html
-- https://medium.com/@polyglot_factotum/rust-concurrency-the-single-writer-principle-applied-aada2cdc6fb0
-- https://github.com/pretzelhammer/rust-blog/blob/master/posts/learning-rust-in-2020.md
-- https://nickwilcox.github.io/blog/autovec/
-- https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md
-- http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/
-- https://blog.darklang.com/why-dark-didnt-choose-rust/
-- https://foundation.rust-lang.org/posts/2021-02-08-hello-world/
-- https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox/
-- https://cacm.acm.org/magazines/2021/4/251364-safe-systems-programming-in-rust/fulltext
-- [Rust verification tools 2021](https://alastairreid.github.io/automatic-rust-verification-tools-2021/)
-- [Using `unwrap()` in Rust is okay](https://blog.burntsushi.net/unwrap/)
-- [A Guide to Error Handling in Rust](https://nrc.github.io/error-docs/)
+- https://dtolnay.github.io/rust-quiz/18 &#x2610;
+- https://github.com/dtolnay/semver-trick &#x2610;
+- https://medium.com/@edwardpku/being-an-intermediate-rust-programmer-in-one-day-37283bb1b0b0?from=timeline&isappinstalled=0 &#x2610;
+- https://blog.rust-lang.org/2018/12/21/Procedural-Macros-in-Rust-2018.html &#x2610;
+- https://rust-lang-nursery.github.io/api-guidelines/documentation.html#documentation &#x2610;
+- https://rust-random.github.io/book/ &#x2610;
+- https://stjepang.github.io/2019/01/29/lock-free-rust-crossbeam-in-2019.html &#x2610;
+- https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html &#x2610;
+- https://doc.rust-lang.org/nomicon/aliasing.html &#x2610;
+- https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/ &#x2610;
+- https://www.rust-lang.org/production &#x2610;
+- https://www.reddit.com/r/rust/comments/aohq6u/rust_velocity_and_defect_rates/eg189gu/ &#x2610;
+- https://rufflewind.com/2017-02-15/rust-move-copy-borrow &#x2610;
+- https://blog.adamant-lang.org/2019/rust-lifetime-visualization-ideas/ &#x2610;
+- http://pling.jondgoodwin.com/post/lifetimes/ &#x2610;
+- https://github.com/rust-lang-nursery/rust-cookbook/issues/502#issue-387418261 &#x2610;
+- https://smallcultfollowing.com/babysteps/blog/2012/11/18/imagine-never-hearing-the-phrase-aliasable/ &#x2610;
+- https://manishearth.github.io/blog/2017/03/18/inhtpinhtpamaa/ &#x2610;
+- https://areweasyncyet.rs/ - contains async blog posts &#x2610;
+- https://medium.com/@richardanaya/a-journey-through-rust-lifetimes-5a08782c7091 &#x2610;
+- https://gill.net.in/posts/auth-microservice-rust-actix-web1.0-diesel-complete-tutorial/ &#x2610;
+- https://medium.com/@ly.lee/hosting-embedded-rust-apps-on-apache-mynewt-with-stm32-blue-pill-c86b119fe5f?sk=f58f4cf6c608fded4b354063e474a93b &#x2610;
+- http://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/ &#x2610;
+  - https://news.ycombinator.com/item?id=20192645 &#x2610;
+- http://patshaughnessy.net/2018/3/15/how-rust-implements-tagged-unions &#x2610;
+- https://raphaelgomes.dev/blog/articles/2019-07-01-sharing-references-between-python-and-rust.html &#x2610;
+- https://dev.to/sendilkumarn/increase-rust-and-webassembly-performance-382h &#x2610;
+- https://medium.com/dwelo-r-d/we-rewrote-our-iot-platform-in-rust-and-got-away-with-it-2c8867c61b67 &#x2610;
+- https://www.ncameron.org/blog/migrating-a-crate-from-futures-0-1-to-0-3/ &#x2610;
+- https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html &#x2610;
+- https://tmandry.gitlab.io/blog/posts/optimizing-await-1/ &#x2610;
+- https://tmandry.gitlab.io/blog/posts/optimizing-await-2/ &#x2610;
+- https://aturon.github.io/tech/2018/04/24/async-borrowing/ &#x2610;
+- https://rust-lang.github.io/async-book/ &#x2610;
+- https://cheats.rs/ &#x2610;
+- https://hsivonen.fi/string-length/ &#x2610;
+- https://github.com/ferrous-systems/elements-of-rust/ &#x2610;
+- https://arxiv.org/pdf/1902.01906.pdf &#x2610;
+- http://blog.pnkfx.org/blog/2019/11/18/rust-bug-minimization-patterns/ &#x2610;
+- https://docs.rs/dtolnay/*/dtolnay/macro._03__soundness_bugs.html &#x2610;
+- https://blog.dbrgn.ch/2019/12/24/testing-for-no-std-compatibility/ &#x2610;
+- http://cliffle.com/blog/m4vga-in-rust/ &#x2610;
+- https://stevedonovan.github.io/rustifications/2018/08/18/rust-closures-are-hard.html &#x2610;
+- https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/ &#x2610;
+- https://gregoryszorc.com/blog/2020/01/13/mercurial%27s-journey-to-and-reflections-on-python-3/ &#x2610;
+- http://cliffle.com/p/dangerust/ &#x2610;
+- http://dtrace.org/blogs/bmc/2018/09/28/the-relative-performance-of-c-and-rust/ &#x2610;
+- https://pitdicker.github.io/Interior-mutability-patterns/ &#x2610;
+- https://medium.com/tadaweb/security-by-design-a-brief-introduction-to-rust-378060e45038 &#x2610;
+- https://jitter.company/blog/2020/01/28/measuring-space-time-behaviours-of-piano-keys-with-rust/ &#x2610;
+- https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f &#x2610;
+- https://matklad.github.io/2020/02/14/why-rust-is-loved.html &#x2610;
+- https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride/ &#x2610;
+- https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/ &#x2610;
+- https://lucumr.pocoo.org/2020/1/1/async-pressure/ &#x2610;
+- https://www.pietroalbini.org/blog/shipping-a-compiler-every-six-weeks/ &#x2610;
+- https://oribenshir.github.io/afternoon_rusting/blog/copy-on-write &#x2610;
+- https://os.phil-opp.com/async-await/ &#x2610;
+- https://jason-williams.co.uk/a-possible-new-backend-for-rust &#x2610;
+- https://blog.logrocket.com/how-to-write-crap-rust-code/ &#x2610;
+- https://ferrous-systems.com/blog/zero-sized-references/ &#x2610;
+- https://msrc-blog.microsoft.com/2020/04/29/the-safety-boat-kubernetes-and-rust/ &#x2610;
+- https://richardanaya.github.io/tour_of_rust/ &#x2610;
+- https://fnordig.de/2020/05/02/rust-in-an-instant/ &#x2610;
+- https://ferrous-systems.com/blog/stable-async-on-embedded/ &#x2610;
+- http://kvark.github.io/web/gpu/native/2020/05/03/point-of-webgpu-native.html &#x2610;
+- https://nikic.github.io/2020/05/10/Make-LLVM-fast-again.html &#x2610;
+- https://medium.com/@polyglot_factotum/rust-concurrency-the-single-writer-principle-applied-aada2cdc6fb0 &#x2610;
+- https://github.com/pretzelhammer/rust-blog/blob/master/posts/learning-rust-in-2020.md &#x2610;
+- https://nickwilcox.github.io/blog/autovec/ &#x2610;
+- https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md &#x2610;
+- http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/ &#x2610; 
+- https://blog.darklang.com/why-dark-didnt-choose-rust/ &#x2610;
+- https://foundation.rust-lang.org/posts/2021-02-08-hello-world/ &#x2610;
+- https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox/ &#x2610;
+- https://cacm.acm.org/magazines/2021/4/251364-safe-systems-programming-in-rust/fulltext &#x2610;
+- [Rust verification tools 2021](https://alastairreid.github.io/automatic-rust-verification-tools-2021/) &#x2610;
+- [Using `unwrap()` in Rust is okay](https://blog.burntsushi.net/unwrap/) &#x2610;
+- [A Guide to Error Handling in Rust](https://nrc.github.io/error-docs/) &#x2610;
