@@ -20,11 +20,11 @@ of this page. Someday I will get around to re-organizing this list.__
 
 - Introduction
   - [Understanding Over Guesswork](https://hoverbear.org/2015/09/12/understand-over-guesswork/) &#x2611;
-  - [An Alternative Introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust) &#x2610;
-  - [Learning Rust](https://medium.com/learning-rust) &#x2610;
-    - [Rust Basics](https://medium.com/learning-rust/rust-basics-e73304ab35c7) &#x2610;
-    - [Rust: Beyond the Basics](https://medium.com/learning-rust/rust-beyond-the-basics-4fc697e3bf4f) &#x2610;
-    - [Rust: The Tough Part](https://medium.com/learning-rust/rust-the-tough-part-2ea11ed3693e) &#x2610;
+  - [An Alternative Introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust) &#x2611;
+  - [Learning Rust](https://medium.com/learning-rust) &#x2611;
+    - [Rust Basics](https://medium.com/learning-rust/rust-basics-e73304ab35c7) &#x2611;
+    - [Rust: Beyond the Basics](https://medium.com/learning-rust/rust-beyond-the-basics-4fc697e3bf4f) &#x2611;
+    - [Rust: The Tough Part](https://medium.com/learning-rust/rust-the-tough-part-2ea11ed3693e) &#x2611;
   - [Rust and CSV Parsing](http://blog.burntsushi.net/csv/) &#x2610;
   - [Rust for Functional Programmers](http://science.raphael.poss.name/rust-for-functional-programmers.html) &#x2610;
   - Graydon's Lists
@@ -38,7 +38,7 @@ of this page. Someday I will get around to re-organizing this list.__
   - [Where Rust Really Shines](https://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/) &#x2611;
   - [Rust Means Never Having to Close a Socket](http://blog.skylight.io/rust-means-never-having-to-close-a-socket/) &#x2611;
   - [The Problem with Single-threaded Shared Mutability](https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/) &#x2611;
-  - [Rust Ownership the Hard Way](https://chrismorgan.info/blog/rust-ownership-the-hard-way.html) &#x2610;
+  - [Rust Ownership the Hard Way](https://chrismorgan.info/blog/rust-ownership-the-hard-way.html) &#x2610; STOPPED: Trait objects are Rust’s form of safe and convenien
   - [Strategies for Solving "cannot move out of" Borrowing Errors](http://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html) &#x2610;
   - Interior Mutability In Rust
     - [Interior mutability in Rust: what, why, how?](https://ricardomartins.cc/2016/06/08/interior-mutability) &#x2610;
