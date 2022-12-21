@@ -37,7 +37,7 @@ of this page. Someday I will get around to re-organizing this list.__
 - Ownership
   - [Where Rust Really Shines](https://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/) &#x2611;
   - [Rust Means Never Having to Close a Socket](http://blog.skylight.io/rust-means-never-having-to-close-a-socket/) &#x2611;
-  - [The Problem with Single-threaded Shared Mutability](https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/) &#x2610;
+  - [The Problem with Single-threaded Shared Mutability](https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/) &#x2611;
   - [Rust Ownership the Hard Way](https://chrismorgan.info/blog/rust-ownership-the-hard-way.html) &#x2610;
   - [Strategies for Solving "cannot move out of" Borrowing Errors](http://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html) &#x2610;
   - Interior Mutability In Rust
